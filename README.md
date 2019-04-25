@@ -1,5 +1,6 @@
-# sudoku
+# Université de Valenciennes et du Hainaut Cambrésis / UVHC
+# L2 Informatique
+# Application development
 
-A sudoku solver in C language.
-
-It solved a grid passed in params.
+Here is a sudoku solver in C language.
+It solves a grid passed in params.
